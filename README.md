@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I've been to the most Northern town in the world - Longyearbyen in Svalbard - where I drank vodka in the Northern-most vodka distillery in the world. 
 
 ![IMG_1035](https://user-images.githubusercontent.com/52511353/193108896-04d7f188-972d-4c80-8d8f-eaed57caa953.JPG)
+
+--!>
