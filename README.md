@@ -3,7 +3,7 @@
 
 **DominicSimpson/DominicSimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🌱 I’m currently learning Software Development at [Founders & Coders](http://www.foundersandcoders.com) in Finsbury Park while working in Customer Service at the Barbican Centre. If successful, I hope to go on to complete a Software Apprenticeship.
+### 🌱 I’m currently learning Software Development at [Founders & Coders](http://www.foundersandcoders.com) in Finsbury Park, as part of cohort FAC26, while working part-time in Customer Service at the Barbican Centre. If successful, I hope to go on to complete a Software Apprenticeship. You can see what we are learning on the Bootcamp [here](https://www.foundersandcoders.com/skills-bootcamp/).
 My background prior to learning in coding was in editorial and Customer Service
 - 💬 Ask me about capital cities in countries - I have an encyclopaedic knowledge.
 - 😄 Pronouns: he/him
