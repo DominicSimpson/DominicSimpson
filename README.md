@@ -4,6 +4,7 @@
 **DominicSimpson/DominicSimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🌱 I’m currently learning Software Development at [Founders & Coders](http://www.foundersandcoders.com) in [Space4](https://space4.tech), Finsbury Park, London, as part of cohort FAC26, while working part-time in Customer Service at the Barbican Centre. If successful, I hope to go on to complete a Software Apprenticeship. [This is what I am learning on the Bootcamp](https://www.foundersandcoders.com/skills-bootcamp/).
+### A portfolio of my work can be viewed on [my website](http://www.dominicsimpson.co.uk), in the 'Animation' and 'Web Development' sections. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
 My background prior to learning in coding and Customer Experience was as an Editorial Assistant at Wilmington PLC, a large publishing house (including B2B) in North London.
 - 💬 Ask me about capital cities in countries - I have an encyclopaedic knowledge.
 - 😄 Pronouns: he/him
