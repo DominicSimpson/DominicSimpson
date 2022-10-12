@@ -9,7 +9,7 @@ My background prior to learning in coding and Customer Experience was as an Edit
 - 🌆 Ask me about capital cities in countries - I have an encyclopaedic knowledge.
 - 😄 Pronouns: he/him
 - 🙌 I volunteer in my spare time as Secretary for the not-for-profit organisation [Sustainable Hackney](http://www.sustainablehackney.org.uk), devoted to local sustainable projects. From 2014-2017, I volunteered for the Arts Council-funded project [A Hackney Autobiography](http://www.ahackneyautobiography.org.uk), based at Bishopsgate Institute in east London.
-- 🚀 Fun fact: I've been to the most Northern town in the world - Longyearbyen in Svalbard, an archipelago owned by Norway. While there, I also checked out a still-active Russian mining town (leased to Russia from Norway) called Barentsburg, where I drank vodka in the Northern-most distillery in the world. Accordingly, I now hope to visit one day [Ushuaia](https://en.wikipedia.org/wiki/Ushuaia), the southern-most city in the world, in Patagonia, Argentina.
+- 🚀 Fun fact: I've been to the most Northern-located town in the world - [Longyearbyen](https://en.wikipedia.org/wiki/Longyearbyen) in Svalbard, an archipelago owned by Norway. While there, I also checked out a still-active Russian mining town (leased to Russia from Norway) called Barentsburg, where I drank vodka in the Northern-most distillery in the world. Accordingly, I now hope to visit one day [Ushuaia](https://en.wikipedia.org/wiki/Ushuaia), the southern-most city in the world, in Patagonia, Argentina.
 ![IMG_1035](https://user-images.githubusercontent.com/52511353/193108896-04d7f188-972d-4c80-8d8f-eaed57caa953.JPG)
 
 ::
