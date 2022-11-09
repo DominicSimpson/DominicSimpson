@@ -13,6 +13,8 @@
   
   ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DominicSimpson&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominicSimpson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ### :telescope: A portfolio of my work can be viewed on [my website](http://www.dominicsimpson.co.uk), in the 'Animation' and 'Web Development' sections. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
 
