@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   
 ### :telescope: A portfolio of my work can be viewed on [my website](http://www.dominicsimpson.co.uk), in the 'Animation' and 'Web Development' sections. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
 My background prior to learning in coding and Customer Experience was as an Editorial Assistant at [Wilmington PLC](http://www.wilmingtonplc.com), a large publishing house (including B2B) in North London. I also completed a Post-Graduate Diploma in Journalism, and wrote freelance for the [Hackney Citizen](http://www.hackneycitizen.co.uk).
