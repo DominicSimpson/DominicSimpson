@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-**DominicSimpson/DominicSimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🌱 I’m currently learning Software Development at [Founders & Coders](http://www.foundersandcoders.com) in [Space4](https://space4.tech), Finsbury Park, London, as part of cohort FAC26, while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk). If successful, I hope to go on to complete a Software Apprenticeship. I am learning HTML, CSS, and JavaScript, including fetch and promises, as well as Git workflow. [This is a more detailed synopsis of what I am learning on the Bootcamp](https://www.foundersandcoders.com/skills-bootcamp/).
 ### A portfolio of my work can be viewed on [my website](http://www.dominicsimpson.co.uk), in the 'Animation' and 'Web Development' sections. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
 My background prior to learning in coding and Customer Experience was as an Editorial Assistant at [Wilmington PLC](http://www.wilmingtonplc.com), a large publishing house (including B2B) in North London. I also completed a Post-Graduate Diploma in Journalism, and wrote freelance for the [Hackney Citizen](http://www.hackneycitizen.co.uk).
