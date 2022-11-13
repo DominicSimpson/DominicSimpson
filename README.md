@@ -19,7 +19,7 @@
   
 ### :telescope: A portfolio of my work can be viewed on [my website](http://www.dominicsimpson.co.uk), in the 'Animation' and 'Web Development' sections. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
 
-
+<img src="https://camo.githubusercontent.com/19e7e6f9648440792c02c4f6343415abb84b24fa25faa6053e9b7bc50ffe762a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7777673173755569546243593848387649412f67697068792d646f776e73697a65642d6c617267652e676966">
 
 My background prior to learning in coding and Customer Experience was as an Editorial Assistant at [Wilmington PLC](http://www.wilmingtonplc.com), a large publishing house (including B2B) in North London. I also completed a Post-Graduate Diploma in Journalism, and wrote freelance for the [Hackney Citizen](http://www.hackneycitizen.co.uk).
 - 🌆 Ask me about capital cities in countries - I have an encyclopaedic knowledge.
