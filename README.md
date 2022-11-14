@@ -21,7 +21,8 @@
 
 <img src="https://camo.githubusercontent.com/19e7e6f9648440792c02c4f6343415abb84b24fa25faa6053e9b7bc50ffe762a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7777673173755569546243593848387649412f67697068792d646f776e73697a65642d6c617267652e676966">
 
-My background prior to learning in coding and Customer Experience was as an Editorial Assistant at [Wilmington PLC](http://www.wilmingtonplc.com), a large publishing house (including B2B) in North London. I also completed a Post-Graduate Diploma in Journalism, and wrote freelance for the [Hackney Citizen](http://www.hackneycitizen.co.uk).
+My background prior to learning in coding and Customer Experience was as an Editorial Assistant at [Wilmington PLC](http://www.wilmingtonplc.com), a large publishing house (including B2B) in North London. My role there included some HTML via Dreamweaver, while working on the company website. 
+After leaving Wilmington PLC, I completed a Post-Graduate Diploma in Journalism, and wrote freelance for the [Hackney Citizen](http://www.hackneycitizen.co.uk). I also did some work at _The Observer_ newspaper and [7digital.com](http://www.7digital.com). For the latter, I also did used HTML on the company website while there.  
 - 🌆 Ask me about capital cities in countries - I have an encyclopaedic knowledge.
 - 😄 Pronouns: he/him
 - ✈️ [Here's some nice photos from my travels and at home in London](https://dominicsimpson.co.uk/photography.html)
