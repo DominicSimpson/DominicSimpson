@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 🌱 That's me in the image above. I’m currently learning Software Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [Founders & Coders](http://www.foundersandcoders.com), based in [Space4](https://space4.tech), Finsbury Park, London, a hub for [Tech for Better](https://www.foundersandcoders.com/tech-for-better). Other organisations based at the hub include [Outlandish](http://www.outlandish.com).
+### 🌱 That's me in the image above. I’m currently learning Software Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [Founders & Coders](http://www.foundersandcoders.com), based in [Space4](https://space4.tech), Finsbury Park, London, UK, a hub for [Tech for Better](https://www.foundersandcoders.com/tech-for-better). Other organisations based at the hub include [Outlandish](http://www.outlandish.com).
 
 I am currently undertaking Founders & Coder's full-time Software Development Apprenticeship as a member of cohort FAC26, while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). In the meantime, [here is a synopsis of what I am learning on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).
 
