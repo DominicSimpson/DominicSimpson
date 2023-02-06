@@ -51,4 +51,6 @@ After leaving Wilmington PLC, I completed a Post-Graduate Diploma in Journalism,
 
 ![IMG_1035](https://user-images.githubusercontent.com/52511353/193108896-04d7f188-972d-4c80-8d8f-eaed57caa953.JPG)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominicbernardsimpson/)
+- :mailbox:How to reach me:
+- info [at] dominicsimpson.co.uk
+-  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominicbernardsimpson/)
