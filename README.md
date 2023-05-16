@@ -9,7 +9,7 @@
 I am currently undertaking Founders & Coders' full-time Software Development Apprenticeship ([Level 4](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1)) as a member of cohort [FAC26](https://github.com/fac26), while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required Founders & Coders [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). In the meantime, [here is a synopsis of what I am learning on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).
 
 ### :hammer_and_wrench: Languages and Tools / Tech Stack :
-Frontend:
+Frontend:<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" height="80" height="80">
