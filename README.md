@@ -10,16 +10,16 @@ I am currently undertaking Founders & Coders' full-time Software Development App
 
 ### :hammer_and_wrench: Languages and Tools / Tech Stack :
 General:<br>
-  Javascript, Git
+ - Javascript, Git
 
  Frontend:<br>
-  HTML5, CSS3, React.js, some experience of Tailwind CSS
+  - HTML5, CSS3, React.js, some experience of Tailwind CSS
   
  Backend:<br>
-  Node, NPM, Express, PostgreSQL / SQLite, some experience of using Airtable and Supabase
+  - Node, NPM, Express, PostgreSQL / SQLite, some experience of using Airtable and Supabase
   
  Fullstack:<br>
-  Next.js
+  - Next.js
 
   
   ### :fire: My Stats :
