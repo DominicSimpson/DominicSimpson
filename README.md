@@ -8,9 +8,13 @@
 
 I am currently undertaking Founders & Coders' full-time Software Development Apprenticeship ([Level 4](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1)) as a member of cohort [FAC26](https://github.com/fac26), while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required Founders & Coders [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). In the meantime, [here is a synopsis of what I am learning on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools / Tech Stack :
+Frontend: HTML5, CSS3, Tailwind CSS (some experience), React.js
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" height="80" height="80">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss height="80" height="80">
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="80" height="80">
@@ -18,7 +22,6 @@ I am currently undertaking Founders & Coders' full-time Software Development App
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" height="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" height="80" height="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" height="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="next" height="80" height="80">
 
 
