@@ -21,6 +21,9 @@ General:<br>
  Fullstack:<br>
   - Next.js
 
+  Testing:<br>
+  - Cypress Testing
+
   
   ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DominicSimpson&theme=dark&background=000000)](https://git.io/streak-stats)
