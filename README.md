@@ -22,7 +22,7 @@ General:<br>
   - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
   Testing:<br>
-  - Cypress Testing
+  - ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
   
   ### :fire: My Stats :
