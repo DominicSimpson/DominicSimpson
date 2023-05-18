@@ -16,10 +16,11 @@ General:<br>
   - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
   
  Backend:<br>
-  - Node, NPM, Express, PostgreSQL / SQLite, some experience of using Airtable and Supabase
+  -  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+  -  NPM, Express, PostgreSQL / SQLite, some experience of using Airtable and Supabase
   
  Fullstack:<br>
-  - Next.js
+  - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
   Testing:<br>
   - Cypress Testing
