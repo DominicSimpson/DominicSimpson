@@ -17,7 +17,9 @@ General:<br>
   
  Backend:<br>
   -  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-  -  NPM, Express, PostgreSQL / SQLite,
+  -  NPM, Express,
+  -  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+ PostgreSQL / SQLite,
   -  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
  some experience of using Airtable and Supabase
   
