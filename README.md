@@ -13,7 +13,9 @@ General:<br>
  - Javascript, Git
 
  Frontend:<br>
-  - HTML5, CSS3, React.js, some experience of Tailwind CSS
+  - HTML5, 
+  - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff) !
+  - CSS3, React.js, some experience of Tailwind CSS
   
  Backend:<br>
   - Node, NPM, Express, PostgreSQL / SQLite, some experience of using Airtable and Supabase
