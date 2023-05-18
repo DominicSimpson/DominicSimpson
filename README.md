@@ -17,7 +17,9 @@ General:<br>
   
  Backend:<br>
   -  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-  -  NPM, Express, PostgreSQL / SQLite, some experience of using Airtable and Supabase
+  -  NPM, Express, PostgreSQL / SQLite,
+  -  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+ some experience of using Airtable and Supabase
   
  Fullstack:<br>
   - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
