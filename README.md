@@ -45,6 +45,8 @@ My background prior to learning coding and working in Customer Experience was as
 
 After leaving Wilmington PLC, I completed a Post-Graduate Diploma in Journalism, wrote freelance for the [Hackney Citizen](http://www.hackneycitizen.co.uk), and volunteered as a Team Leader at the Southbank Centre (including helping build the [Festival Village](https://festivalvillage.wordpress.com) arts space). I also completed some work at _The Observer_ newspaper and [7digital.com](http://www.7digital.com), a music and brands platform. For the latter, I also used HTML on the company website while there.
 
+- :autistic: I identify as autistic and have ADHD.
+
 - 🌆 Ask me about capital cities in countries - I have an encyclopaedic knowledge.
 
 - 😄 Pronouns: he/him
