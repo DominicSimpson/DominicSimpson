@@ -1,4 +1,4 @@
-# Hi there, I'm Dominic 👋
+# Hi there, I'm Dominic - currently looking for a full-time Developer role👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
