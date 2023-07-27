@@ -8,6 +8,8 @@
 
 I graduated from Founders & Coders' full-time Software Development Apprenticeship ([Level 4](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1)) as a member of cohort [FAC26](https://github.com/fac26) in April 2023, while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required Founders & Coders [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). In the meantime, [here is a synopsis of what I learned on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).
 
+Since graduating, I have mentored students on FAC27 cohort. I am currently learning Python, as well as having made inroads into other languages like C#.
+
 ### :hammer_and_wrench: Languages and Tools / Tech Stack :
 General:<br>
  - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
