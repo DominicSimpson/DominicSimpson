@@ -10,7 +10,9 @@
 
 I graduated from Founders & Coders' full-time Software Development Apprenticeship ([Level 4](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1)) as a member of cohort [FAC26](https://github.com/fac26) in April 2023, while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required Founders & Coders [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). In the meantime, [here is a synopsis of what I learned on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).
 
-Since graduating, I mentored students on the FAC27 cohort, before landing a Software Development internship at [Octophin Digital](https://octophindigital.com), which pioneers tech for the wildlife conservation, charity, and arts sectors. My work at Octophin included working on an updated version of the [interactive Navigator tool](https://www.oneearth.org/navigator) of the website [One Earth](https://www.oneearth.org). I am currently working on a data portfolio project for the Bootcamp at Cambridge Spark.
+Since graduating, I mentored students on the FAC27 cohort, before landing a Software Development internship at [Octophin Digital](https://octophindigital.com), which pioneers tech for the wildlife conservation, charity, and arts sectors. My work at Octophin included working on an updated version of the [interactive Navigator tool](https://www.oneearth.org/navigator) of the website [One Earth](https://www.oneearth.org).
+
+I am currently working on a data portfolio project for the Bootcamp at Cambridge Spark.
 
 ### :hammer_and_wrench: Languages and Tools / Tech Stack :
 General:<br>
