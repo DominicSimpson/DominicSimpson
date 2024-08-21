@@ -19,7 +19,7 @@ General:<br>
  - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
  - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
-Data Visualistion:<be>
+Data Visualisation:<be>
 - ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=ffffff)
 - ![Pandas](https://img.shields.io/badge/-Pandas-%23150A6F?style=for-the-badge&logo=pandas&logoColor=ffffff)
 - ![NumPy](https://img.shields.io/badge/-NumPy-%230d70c1?style=for-the-badge&logo=numpy&logoColor=ffffff)
