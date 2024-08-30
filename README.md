@@ -4,22 +4,20 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 🌱 That's me in the image above. I'm currently studying a [Skills Bootcamp in Data Analytics](https://info.cambridgespark.com/dfe-skills-bootcamp-in-data-analytics) at the educational provider Cambridge Spark, and will graduate in August 2024. 
+### 🌱 That's me in the image above. I've recently graduated from a [Skills Bootcamp in Data Analytics](https://info.cambridgespark.com/dfe-skills-bootcamp-in-data-analytics) at the Government-funded educational provider Cambridge Spark, and am currently available for Graduate / Junior Data Analyst roles. You can view my final personal portfolio project, based on UN Population Data statistics, [here](https://dominic-simpson.co.uk/portfolio/un-population-dataset-project).
 
 ### Prior to this, I graduated from learning Software Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [Founders & Coders](http://www.foundersandcoders.com), based in [Space4](https://space4.tech), Finsbury Park, London, UK, a hub for [Tech for Better](https://www.foundersandcoders.com/tech-for-better). Other organisations based at the hub include [Outlandish](http://www.outlandish.com), who create tech for positive social impacts; and [Breakthrough](https://www.wearebreakthrough.org), who have pioneered teaching tech and business to recent prison leavers.
 
-I graduated from Founders & Coders' full-time Software Development Apprenticeship ([Level 4](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1)) as a member of cohort [FAC26](https://github.com/fac26) in April 2023, while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required Founders & Coders [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). In the meantime, [here is a synopsis of what I learned on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).\
+I graduated from Founders & Coders' full-time Software Development Apprenticeship ([Level 4](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1)) as a member of cohort [FAC26](https://github.com/fac26) in April 2023, while working part-time in Customer Service at the [Barbican Centre](http://www.barbican.org.uk), having previously completed the required Founders & Coders [Skills Bootcamp](https://www.foundersandcoders.com/skills-bootcamp), for which you can [read a portfolio assessment of my work on the Bootcamp projects](https://github.com/DominicSimpson/portfolio). [Here is a synopsis of what I learned on the Apprenticeship](https://www.foundersandcoders.com/apprenticeship).
 
-Since graduating, I mentored students on the FAC27 cohort, before landing a Software Development internship at [Octophin Digital](https://octophindigital.com), which pioneers tech for the wildlife conservation, charity, and arts sectors. My work at Octophin included working on an updated version of the [interactive Navigator tool](https://www.oneearth.org/navigator) of the website [One Earth](https://www.oneearth.org).
-
-I am currently working on a data portfolio project for the Bootcamp at Cambridge Spark.
+Since graduating, I mentored students on the FAC27 cohort, before landing a Software Development internship at [Octophin Digital](https://octophindigital.com), which pioneers tech for the wildlife conservation, charity, and arts sectors. My work at Octophin is [detailed in this portfolio entry](https://dominic-simpson.co.uk/portfolio/octophin-digital-global-safety-net-others).
 
 ### :hammer_and_wrench: Languages and Tools / Tech Stack :
 General:<br>
  - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
  - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
-Data Visualisation:<be>
+Data Analytics:<be>
 - ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=ffffff)
 - ![Pandas](https://img.shields.io/badge/-Pandas-%23150A6F?style=for-the-badge&logo=pandas&logoColor=ffffff)
 - ![NumPy](https://img.shields.io/badge/-NumPy-%230d70c1?style=for-the-badge&logo=numpy&logoColor=ffffff)
@@ -35,14 +33,15 @@ Frontend:<br>
   - ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
   - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  
 Backend:<br>
   -  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
   -  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   -  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  -  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-  -  ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
+Database:<br>
+  -  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   -  ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+  -  ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
   
 Fullstack:<br>
   - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,7 +49,6 @@ Fullstack:<br>
 Testing:<br>
   - ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
   - ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
 
 Prototyping:<br>
   - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
