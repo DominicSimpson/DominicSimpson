@@ -61,9 +61,7 @@ Prototyping:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominicSimpson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
-### :telescope: A portfolio of my work can be viewed here on my GitHub profile with my repositories. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
-
-<img src="https://camo.githubusercontent.com/19e7e6f9648440792c02c4f6343415abb84b24fa25faa6053e9b7bc50ffe762a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7777673173755569546243593848387649412f67697068792d646f776e73697a65642d6c617267652e676966">
+### :telescope: A portfolio of my work can be viewed here on my GitHub profile. In addition, you can also view [my LinkedIn page](https://www.linkedin.com/in/dominicbernardsimpson).
 
 My background prior to learning coding and working in Customer Experience was as an Editorial Assistant at [Wilmington PLC](http://www.wilmingtonplc.com), a large publishing house (including B2B) in North London. I worked on directories of charities, pensions, finance, and global politics, including project managing the Online Donations and Goodwill Gallery services, in which members of the public could donate money and goods respectively to charities. My role there included some HTML via Dreamweaver, while working on the company website, and extensive research on global statistics while compiling some of the directories. 
 
@@ -75,9 +73,7 @@ After leaving Wilmington PLC, I completed a Post-Graduate Diploma in Journalism,
 
 - 😄 Pronouns: he/him
 
-- ✈️ [Here's some nice photos from my travels and at home in London](https://dominicsimpson.co.uk/photography.html)
-
-- 🙌 I volunteer in my spare time as Secretary for the not-for-profit organisation [Sustainable Hackney](http://www.sustainablehackney.org.uk), devoted to local sustainable projects; we have recently been scrutinizing Hackney Council's draft Climate Action Plan. I also agitate for electoral reform in the UK as part of [Make Votes Matter](http://www.makevotesmatter.org.uk). In addition, I recently managed to convince my local MP, Diane Abbott, to put her support behind [Power for People](http://www.powerforpeople.org.uk)'s local energy scheme via attending a meeting with her in Parliament, accompanied by two members of staff from Power for People. The [local electricity bill](https://powerforpeople.org.uk/the-local-electricity-bill) is currently making its way through Parliament.
+- 🙌 I volunteer in my spare time as Secretary for the not-for-profit organisation [Sustainable Hackney](http://www.sustainablehackney.org.uk), devoted to local sustainable projects; we have recently been scrutinizing Hackney Council's draft Climate Action Plan. I also agitate for electoral reform in the UK as part of [Make Votes Matter](http://www.makevotesmatter.org.uk). In addition, I recently managed to convince my local MP, Diane Abbott, to put her support behind [Power for People](http://www.powerforpeople.org.uk)'s local energy scheme, via attending a meeting with her in Parliament, accompanied by two members of staff from Power for People. The [local electricity bill](https://powerforpeople.org.uk/the-local-electricity-bill) is currently making its way through Parliament.
 
 - 🙌 From 2014-2017, I volunteered for the Arts Council-funded project [A Hackney Autobiography](http://www.ahackneyautobiography.org.uk), based at [Bishopsgate Institute](https://www.bishopsgate.org.uk) in east London. The project looked into the history of Centerprise, a community centre that existed in Hackney from 1971-2012. Centerprise was a local publishing project, bookshop, cafe, arts space, housing advice section, and hub for many local activist groups, who used its spare rooms. The project looked at the history of Hackney particularly during the 70s and 80s, with Centerprise at its centre, and led to a book, app, and website. Centerprise's vast plethora of literature and ephemera has been transferred to Bishopsgate's legendary archives, which is why the project was located there.  
 
@@ -90,5 +86,5 @@ After leaving Wilmington PLC, I completed a Post-Graduate Diploma in Journalism,
 ![IMG_1035](https://user-images.githubusercontent.com/52511353/193108896-04d7f188-972d-4c80-8d8f-eaed57caa953.JPG)
 
 - :mailbox:How to reach me:
-- db_simpson [at] yahoo.co.uk
+- info [at] dominic-simpson.co.uk
 -  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominicbernardsimpson/)
