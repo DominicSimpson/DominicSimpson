@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### 🌱 That's me in the image above. I've recently graduated from a [Skills Bootcamp in Data Analytics](https://info.cambridgespark.com/dfe-skills-bootcamp-in-data-analytics) at the Government-funded educational provider Cambridge Spark, and am currently available for Graduate / Junior Data Analyst roles. You can view my final personal portfolio project, based on UN Population Data statistics, [here](https://dominic-simpson.co.uk/portfolio/un-population-dataset-project).
+### 🌱 That's me in the image above. I've recently graduated from a [Skills Bootcamp in Data Analytics](https://info.cambridgespark.com/dfe-skills-bootcamp-in-data-analytics) at the Government-funded educational provider Cambridge Spark, and am currently available for Graduate / Junior Data Analyst roles. You can view my final personal portfolio project for the Bootcamp, based on UN Population Data statistics, [here](https://dominic-simpson.co.uk/portfolio/un-population-dataset-project).
 
 ### Prior to this, I graduated from learning Software Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [Founders & Coders](http://www.foundersandcoders.com), based in [Space4](https://space4.tech), Finsbury Park, London, UK, a hub for [Tech for Better](https://www.foundersandcoders.com/tech-for-better). Other organisations based at the hub include [Outlandish](http://www.outlandish.com), who create tech for positive social impacts; and [Breakthrough](https://www.wearebreakthrough.org), who have pioneered teaching tech and business to recent prison leavers.
 
