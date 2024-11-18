@@ -18,7 +18,7 @@ General:<br>
  - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
 Data Analytics:<br>
-![PowerBI](https://img.shields.io/badge/-PowerBI-%23F2C811?style=for-the-badge&logo=powerbi)
+ - ![PowerBI](https://img.shields.io/badge/-PowerBI-%23F2C811?style=for-the-badge&logo=powerbi)
  - ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=ffffff)
  - ![Pandas](https://img.shields.io/badge/-Pandas-%23150A6F?style=for-the-badge&logo=pandas&logoColor=ffffff)
  - ![NumPy](https://img.shields.io/badge/-NumPy-%230d70c1?style=for-the-badge&logo=numpy&logoColor=ffffff)
