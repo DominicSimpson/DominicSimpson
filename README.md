@@ -19,14 +19,14 @@ General:<br>
 
 Data Analytics:<br>
  - ![PowerBI](https://img.shields.io/badge/-PowerBI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff)
+ - ![SQL](https://img.shields.io/badge/-SQL-%23074059?style=for-the-badge&logo=postgresql&logoColor=ffffff)
  - ![Python](https://img.shields.io/badge/-Python-%2314354C?style=for-the-badge&logo=python&logoColor=ffffff)
  - ![Pandas](https://img.shields.io/badge/-Pandas-%23150A6F?style=for-the-badge&logo=pandas&logoColor=ffffff)
  - ![NumPy](https://img.shields.io/badge/-NumPy-%230d70c1?style=for-the-badge&logo=numpy&logoColor=ffffff)
  - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230F4B6E?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
  - ![Seaborn](https://img.shields.io/badge/-Seaborn-%231f77b4?style=for-the-badge&logo=seaborn&logoColor=ffffff)
  - ![Bokeh](https://img.shields.io/badge/-Bokeh-%233B0A45?style=for-the-badge&logo=bokeh&logoColor=ffffff)
- - ![SQL](https://img.shields.io/badge/-SQL-%23074059?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-
+ - ![Excel](https://img.shields.io/badge/-Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff)
 
 Frontend:<br>
   - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
