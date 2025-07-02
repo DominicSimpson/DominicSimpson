@@ -13,7 +13,7 @@ I graduated from Founders & Coders' full-time [Software Development Bootcamp](ht
 After graduating from Founders & Coders, I mentored students on the FAC27 cohort, before landing a Software Development internship at [Octophin Digital](https://octophindigital.com), which pioneers tech for the wildlife conservation, charity, and arts sectors. My work at Octophin is [detailed in this portfolio entry](https://dominic-simpson.co.uk/portfolio/octophin-digital-global-safety-net-others). My interest in the data side of things during my internship at Octophin led me to undertake the Bootcamp at Cambridge Spark, followed by a place on iO-Sphere's Data Analyst Experience Accelerator Fellowship, which I completed in December 2024.
 
 ### :hammer_and_wrench: Languages and Tools / Tech Stack :
-General:<br>
+Version Control:<br>
  - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
 Data Analytics:<br>
@@ -32,11 +32,11 @@ Frontend:<br>
   - ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   - ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  - ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 Backend:<br>
-  -  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+  -  ![Node](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
   -  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   -  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
