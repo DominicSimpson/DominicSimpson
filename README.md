@@ -16,6 +16,9 @@ After graduating from Founders & Coders, I mentored students on the FAC27 cohort
 Version Control:<br>
  - ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
+Containerization:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 Data Analytics:<br>
  - ![PowerBI](https://img.shields.io/badge/-PowerBI-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff)
  - ![SQL](https://img.shields.io/badge/-SQL-%23074059?style=for-the-badge&logo=postgresql&logoColor=ffffff)
