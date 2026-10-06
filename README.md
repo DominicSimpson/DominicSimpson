@@ -40,6 +40,9 @@ Frontend:<br>
   - ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+Mapping:<br>
+  - ![Mapbox](https://img.shields.io/badge/Mapbox-3FBF7F?style=for-the-badge&logo=mapbox&logoColor=white)
+
 Backend:<br>
   -  ![Node](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
   -  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
